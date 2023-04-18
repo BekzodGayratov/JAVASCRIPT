@@ -1,5 +1,5 @@
 // Prototiplar (Prototype) bu - JavaScript obyektlari bir-biridan xususiyatlarini meros qilib olish mexanizimidir.
-// Prototiplar konstruktor kunsiyadan foydalanib obyektga yangi xususiyat qo'shish uchun ishlatiladi.
+// Prototiplar konstruktor funksiyadan foydalanib obyektga yangi xususiyat qo'shish uchun ishlatiladi.
 function Person() {
     this.name = "John";
     this.age = 23;
